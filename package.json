@@ -5,5 +5,7 @@
     "gulp": "^3.9.0",
     "gulp-jshint": "^1.11.2"
   },
-  "scripts": {}
+  "scripts": {
+  	"test" : "gulp"
+  }
 }
